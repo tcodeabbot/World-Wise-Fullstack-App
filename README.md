@@ -49,3 +49,5 @@ To run the Travel Tracking React Application locally:
 - **Mobile Optimization**: Optimize the application for mobile devices to provide a seamless experience on smartphones and tablets.
 
 
+Author: Abbot Tubeine
+
