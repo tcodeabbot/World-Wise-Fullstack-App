@@ -4,6 +4,8 @@
 
 The Travel Tracking React Application is a dynamic city mapping application developed using React. It features an interactive map powered by the React Leaflet library, providing users with an intuitive interface for navigation and exploration of various cities.
 
+## LIVE DEMO
+![screen-capture1-ezgif com-video-to-gif-converter](https://github.com/tcodeabbot/World-Wise-Fullstack-App/assets/135147786/c28f366d-ce96-4db2-9c82-619234b1be0a)
 ## Key Features
 
 - **Interactive Map**: The application offers an interactive map interface where users can explore different cities and landmarks.
